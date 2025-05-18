@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HomePage!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>File Share</h1>
+        <a href="{{ url_for('files') }}">Download files</a>
+        <a href="{{ url_for('upload') }}">Upload files</a>
+    </div>
+</body>
+</html>
