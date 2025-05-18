@@ -28,7 +28,7 @@ Locate in terminal the folder where you installed the app and then run: python r
 
 
 
-Then open [http://<yourip>:5000]in your browser. The link you will need to open will be displayed in your terminal.
+Then open [http://yourip:5000]in your browser. The link you will need to open will be displayed in your terminal.
 
 ## Configuration
 
