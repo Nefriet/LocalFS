@@ -19,7 +19,7 @@ A simple Flask web application for uploading and downloading files.
 git clone https://github.com/rast28/LocalFS.git
 cd LocalFS
 python -m venv env
-source env/bin/activate
+source env/bin/activate on windows: .\env\Scripts\Activate
 pip install -r requirements.txt
 ```
 
